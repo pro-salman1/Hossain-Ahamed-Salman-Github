@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Lerning_html"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my-first-html"
+	}
+}
